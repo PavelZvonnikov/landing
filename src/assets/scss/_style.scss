@@ -1,0 +1,62 @@
+
+// Write your custom style. Feel free to split your code to several files
+body {
+  line-height: normal;
+}
+
+.navbar {
+  font-family: 'Roboto';
+  border-bottom: 1px solid #333333;
+}
+
+.navbar-brand {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-name {
+  color: #3C92CB;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 33px;
+}
+
+.site-description {
+  margin-bottom: 0;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
+
+.nav-navbar .nav-link {
+  text-transform: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  color: black;
+}
+
+.wrapper-navbar-text {
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  color: #3E8D22;
+}
+
+.navbar-text__number {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.navbar-text__mail {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+

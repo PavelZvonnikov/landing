@@ -1,0 +1,66 @@
+.custom-header {
+  height: auto;
+  background-image: url(../img/background.png) ;
+  margin-top: 66px;
+  padding-top: 31px;
+  padding-bottom: 64px;
+  color: #333;
+  font-family:  'Roboto';
+  font-weight: 500;
+}
+.description {
+  font-size: 20px;
+  line-height: 23px;
+  margin-left: 2%;
+  margin-top: 50px;
+}
+
+.row-align {
+  justify-content: flex-end;
+
+}
+
+.col-width {
+  max-width: 347px;
+  margin-right: 140px;
+}
+
+.form-header {
+  font-size: 24px;
+  line-height: 167.4%;
+  margin-bottom: 3px;
+}
+
+.form-text {
+  font-size: 12px;
+  line-height: 167.4%;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+.input-text {
+  margin-left: 10px;
+  line-height: 1em !important;
+  font-weight: 500;
+  margin-bottom: 3px;
+}
+
+.input-picture {
+  max-width: 20px;
+  height: 20px;
+}
+
+.custom-form {
+  border: 1px solid #70BB56;
+  margin-bottom: 10px;
+  flex-wrap: nowrap;
+}
+
+.custom-button {
+  margin: 21px 0 16px 0;
+}
+
+.custom-input {
+  border: none;
+  width: 100%;
+}
